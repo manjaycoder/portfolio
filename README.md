@@ -11,7 +11,7 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 - [Contributing](#contributing)
 - [License](#license)
 
-## Technologies Used
+## Technologies Usung
 
 - **React**: JavaScript library for building user interfaces.
 - **Locomotive Scroll**: For smooth scrolling effects.
